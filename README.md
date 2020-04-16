@@ -1,2 +1,2 @@
 # Kotlin-Example
-This us Kotlin Example
+This is Kotlin Example
